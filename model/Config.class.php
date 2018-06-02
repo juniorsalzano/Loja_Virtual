@@ -3,7 +3,7 @@
   Class Config{
     //INFORMAÇÕES BÁSICAS DO SITE 
     const SITE_URL       = "http://localhost:83";
-    const SITE_PASTA     = "loja_virtual";
+    const SITE_PASTA     = "loja_virtual/trunk";
     const SITE_NOME      = "Loja virtual - Junior Salzano";
     const SITE_EMAIL_ADM = "loja_virtual@hotmail.com";
  

@@ -21,6 +21,14 @@
     Static function pag_Carrinho(){
       return self::get_SiteHOME().'/carrinho';	
     }
+
+    Static function pag_MinhaConta(){
+      return self::get_SiteHOME().'/minhaconta';  
+    }
+
+    Static function pag_Contato(){
+      return self::get_SiteHOME().'/contato';  
+    }
   
   	
   	Static function get_Pagina(){
